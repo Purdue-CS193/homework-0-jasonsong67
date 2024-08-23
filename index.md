@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+# Jason Song's First CS193 Homework
+
+-No Exams in CS 193!
+-Extra 1 credit course so I can feel better about my otherwise 2 course semester load
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
